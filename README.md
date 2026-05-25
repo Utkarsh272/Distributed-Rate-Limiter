@@ -197,17 +197,6 @@ This closes a real gap: most backend engineers have never touched IaC in a perso
 
 ---
 
-## Timeline
-
-This is Project 4 of a [4-project portfolio](https://github.com/Utkarsh272), starting ~Week 8 of a 10-week build plan:
-
-- ✅ Project 1: [RAG with Grounded Citations](https://github.com/Utkarsh272/rag-grounded) — live
-- 🏗️ Project 2: [Mini-Kafka](https://github.com/Utkarsh272/mini-kafka) — in progress
-- 🔲 Project 3: [CRDT Collaborative Document](https://github.com/Utkarsh272/crdt-collab)
-- 🔲 **Project 4: Distributed Rate Limiter** — this repo
-
----
-
 ## License
 
 MIT
